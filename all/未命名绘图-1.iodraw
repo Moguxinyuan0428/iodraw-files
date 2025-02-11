@@ -353,11 +353,6 @@
         <mxCell id="sJYy90kH3K0YOtXmLjfn-8" value="asm: Access Service&lt;div&gt;ius:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Intent Understanding Service&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ihs: Intent Handle Service&lt;/div&gt;&lt;div&gt;dcs: Dialogue Collection Service&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="353" y="641" width="250" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="TU2yJtyPN7vUEw-NYhjF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n4GhNgMq1YBaY6K32bXe-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="577.0799999999999" y="491.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
