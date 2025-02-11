@@ -88,9 +88,6 @@
         <mxCell id="8tj-7MgyY84hSDYEBVx5-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" parent="8tj-7MgyY84hSDYEBVx5-37" vertex="1">
           <mxGeometry y="1.9652173913043478" width="288" height="111.03478260869565" as="geometry" />
         </mxCell>
-        <mxCell id="8tj-7MgyY84hSDYEBVx5-39" value="多轮对话管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="8tj-7MgyY84hSDYEBVx5-37" vertex="1">
-          <mxGeometry x="19" y="32.426086956521736" width="120" height="27.51304347826087" as="geometry" />
-        </mxCell>
         <mxCell id="8tj-7MgyY84hSDYEBVx5-41" value="理解意图服务(chat-ius)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="8tj-7MgyY84hSDYEBVx5-37" vertex="1">
           <mxGeometry x="80.5" width="147.5" height="27" as="geometry" />
         </mxCell>
