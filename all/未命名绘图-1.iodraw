@@ -188,7 +188,7 @@
         <mxCell id="8tj-7MgyY84hSDYEBVx5-56" value="热点新闻服务" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="881" y="486" width="120" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="8tj-7MgyY84hSDYEBVx5-57" value="服务工具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8tj-7MgyY84hSDYEBVx5-57" value="第三方服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="901" y="215" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S8_rB0W4vXzsjNON19AU-8" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" parent="1" vertex="1">
