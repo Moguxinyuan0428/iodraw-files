@@ -425,7 +425,7 @@
           <mxGeometry x="675" y="3008" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="w7MFMmtrsl1NUNFfg21T-189" value="API TOOL：日历服务、天气服务、诗歌服务、资讯搜索服务" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="396.5" y="3140" width="120" height="60" as="geometry" />
+          <mxGeometry x="328.5" y="3154" width="329.5" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
