@@ -31,8 +31,17 @@
         <mxCell id="w7MFMmtrsl1NUNFfg21T-9" value="调用天气服务" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="310" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w7MFMmtrsl1NUNFfg21T-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w7MFMmtrsl1NUNFfg21T-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w7MFMmtrsl1NUNFfg21T-11" target="w7MFMmtrsl1NUNFfg21T-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7MFMmtrsl1NUNFfg21T-11" value="提取query中天气参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w7MFMmtrsl1NUNFfg21T-13" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="398" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w7MFMmtrsl1NUNFfg21T-14" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
