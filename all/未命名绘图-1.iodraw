@@ -13,6 +13,9 @@
         <mxCell id="w7MFMmtrsl1NUNFfg21T-2" value="接收并理解query" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="w7MFMmtrsl1NUNFfg21T-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="308" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
