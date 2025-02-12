@@ -10,7 +10,7 @@
         <mxCell id="w7MFMmtrsl1NUNFfg21T-1" value="中枢大模型（落域）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w7MFMmtrsl1NUNFfg21T-2" value="闲聊大模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w7MFMmtrsl1NUNFfg21T-2" value="接收并理解query" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
