@@ -19,7 +19,7 @@
         <mxCell id="w7MFMmtrsl1NUNFfg21T-5" value="query/参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="320" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w7MFMmtrsl1NUNFfg21T-7" value="获取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w7MFMmtrsl1NUNFfg21T-7" value="获取意图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
