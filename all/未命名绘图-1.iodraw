@@ -403,7 +403,7 @@
         <mxCell id="w7MFMmtrsl1NUNFfg21T-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7MFMmtrsl1NUNFfg21T-180" target="w7MFMmtrsl1NUNFfg21T-181">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w7MFMmtrsl1NUNFfg21T-180" value="诗歌搜索服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="w7MFMmtrsl1NUNFfg21T-180" value="&amp;nbsp;API Service" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="3079" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w7MFMmtrsl1NUNFfg21T-181" value="调用大模型回复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
