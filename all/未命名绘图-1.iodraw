@@ -52,6 +52,9 @@
         <mxCell id="w7MFMmtrsl1NUNFfg21T-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;天气对接服务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="366" y="249" width="126" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="w7MFMmtrsl1NUNFfg21T-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;天气对接服务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="376" y="259" width="126" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
