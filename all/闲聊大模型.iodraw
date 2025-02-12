@@ -863,7 +863,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PwjiEjNVkbuUF9f6NbS_" name="闲聊用例图">
-    <mxGraphModel dx="1340" dy="991" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1123" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -890,6 +890,9 @@
         </mxCell>
         <mxCell id="zQD_HVtSehXUhUSD8BZV-5" value="最近新上的田园诗歌是谁写的？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-89" y="144" width="272" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zQD_HVtSehXUhUSD8BZV-10" value="&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;####&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-38" y="-269" width="55" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
