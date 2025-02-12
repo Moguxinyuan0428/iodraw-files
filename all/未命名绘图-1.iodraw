@@ -41,7 +41,10 @@
           <mxGeometry x="680" y="398" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w7MFMmtrsl1NUNFfg21T-14" value="天气服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="625" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w7MFMmtrsl1NUNFfg21T-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="578" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
