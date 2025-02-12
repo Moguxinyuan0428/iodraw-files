@@ -116,10 +116,10 @@
           <mxGeometry x="388" y="935" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w7MFMmtrsl1NUNFfg21T-45" value="百科接口（百科事件）" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="980" width="160" height="30" as="geometry" />
+          <mxGeometry x="390" y="977" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w7MFMmtrsl1NUNFfg21T-46" value="......" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1018" width="160" height="30" as="geometry" />
+          <mxGeometry x="392" y="1015" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
