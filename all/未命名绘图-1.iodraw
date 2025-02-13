@@ -1053,14 +1053,14 @@
         <mxCell id="BJyYXKxjDFRPfThu6RfH-9" value="电影推荐和个性化推荐：适合全家一起观看的动画片？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-106" y="124" width="295" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="BJyYXKxjDFRPfThu6RfH-10" value="热门电影用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-52" y="-5" width="90" height="26" as="geometry" />
+        <mxCell id="BJyYXKxjDFRPfThu6RfH-10" value="热门音乐用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-62" y="359" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="BJyYXKxjDFRPfThu6RfH-11" value="电影票房/票务：哪吒之魔童闹海的票房多少？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-97" y="71" width="295" height="46" as="geometry" />
+          <mxGeometry x="-107" y="435" width="295" height="46" as="geometry" />
         </mxCell>
         <mxCell id="BJyYXKxjDFRPfThu6RfH-12" value="演员/导演/配音等匹配电影：贾樟柯导演的电影有哪些？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-97" y="198" width="296.5" height="44" as="geometry" />
+          <mxGeometry x="-107" y="562" width="296.5" height="44" as="geometry" />
         </mxCell>
         <mxCell id="BJyYXKxjDFRPfThu6RfH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJyYXKxjDFRPfThu6RfH-17" target="BJyYXKxjDFRPfThu6RfH-11">
           <mxGeometry relative="1" as="geometry" />
@@ -1075,13 +1075,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJyYXKxjDFRPfThu6RfH-17" value="热点电影服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="161" width="126" height="47" as="geometry" />
+          <mxGeometry x="-390" y="525" width="126" height="47" as="geometry" />
         </mxCell>
         <mxCell id="BJyYXKxjDFRPfThu6RfH-18" value="排名/评分/影评：豆瓣评分最高的10部电影？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-97" y="260" width="293" height="45" as="geometry" />
+          <mxGeometry x="-107" y="624" width="293" height="45" as="geometry" />
         </mxCell>
         <mxCell id="BJyYXKxjDFRPfThu6RfH-19" value="电影推荐和个性化推荐：适合全家一起观看的动画片？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-96" y="134" width="295" height="46" as="geometry" />
+          <mxGeometry x="-106" y="498" width="295" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
