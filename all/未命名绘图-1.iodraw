@@ -937,7 +937,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-8" value="天气比较：今天比昨天冷多少？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-119" y="-506" width="272" height="42" as="geometry" />
+          <mxGeometry x="-118" y="-514" width="305" height="42" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-9" value="天气趋势与变化：今晚会很冷吗？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-119" y="-582" width="300" height="45" as="geometry" />
