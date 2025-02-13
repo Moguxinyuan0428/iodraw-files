@@ -870,26 +870,17 @@
         <mxCell id="zQD_HVtSehXUhUSD8BZV-1" value="诗歌用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="71" y="-51" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zQD_HVtSehXUhUSD8BZV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zQD_HVtSehXUhUSD8BZV-2" target="zQD_HVtSehXUhUSD8BZV-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zQD_HVtSehXUhUSD8BZV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="181" y="19.5" as="sourcePoint" />
+            <mxPoint x="311" y="85.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="zQD_HVtSehXUhUSD8BZV-2" value="诗词接龙：君不见黄河之水天上来下一句是什么？" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-91" y="-2" width="272" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="zQD_HVtSehXUhUSD8BZV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zQD_HVtSehXUhUSD8BZV-3" target="zQD_HVtSehXUhUSD8BZV-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zQD_HVtSehXUhUSD8BZV-3" value="琵琶行的作者是谁？" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-89" y="64" width="276" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="zQD_HVtSehXUhUSD8BZV-4" value="诗歌服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="311" y="55.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zQD_HVtSehXUhUSD8BZV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zQD_HVtSehXUhUSD8BZV-5" target="zQD_HVtSehXUhUSD8BZV-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zQD_HVtSehXUhUSD8BZV-5" value="最近新上的田园诗歌是谁写的？" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-89" y="144" width="272" height="42" as="geometry" />
+        <mxCell id="zQD_HVtSehXUhUSD8BZV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="183" y="165" as="sourcePoint" />
+            <mxPoint x="311" y="85.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zQD_HVtSehXUhUSD8BZV-11" value="百科用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-2" y="-442" width="66" height="26" as="geometry" />
