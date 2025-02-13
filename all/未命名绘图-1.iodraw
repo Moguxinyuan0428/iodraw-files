@@ -921,7 +921,7 @@
         <mxCell id="63baA_O1MMSDefcHnGUd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="63baA_O1MMSDefcHnGUd-3" target="63baA_O1MMSDefcHnGUd-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="63baA_O1MMSDefcHnGUd-3" value="query中不含地址的查询天气服务：今天的天气如何？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="63baA_O1MMSDefcHnGUd-3" value="query中不含地址的天气服务：今天的天气如何？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-108" y="-567" width="295" height="46" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="63baA_O1MMSDefcHnGUd-5" target="63baA_O1MMSDefcHnGUd-6">
