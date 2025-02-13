@@ -685,7 +685,7 @@
           <mxGeometry x="166" y="42.88" width="119" height="23.12" as="geometry" />
         </mxCell>
         <mxCell id="Tgnhi4JBFjWxAXDSjCKj-4" value="个性化服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="X8Jd6RP7sj3efBYB-UQO-31">
-          <mxGeometry x="162.76" y="68" width="122.24" height="20" as="geometry" />
+          <mxGeometry x="165.88" y="66" width="122.24" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tgnhi4JBFjWxAXDSjCKj-15" value="个性化服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="X8Jd6RP7sj3efBYB-UQO-31">
           <mxGeometry x="164.38" y="94" width="122.24" height="20" as="geometry" />
@@ -695,6 +695,9 @@
         </mxCell>
         <mxCell id="Tgnhi4JBFjWxAXDSjCKj-17" value="个性化服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="X8Jd6RP7sj3efBYB-UQO-31">
           <mxGeometry x="166" y="147" width="122.24" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tgnhi4JBFjWxAXDSjCKj-18" value="个性化服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="X8Jd6RP7sj3efBYB-UQO-31">
+          <mxGeometry x="165.88" y="174" width="122.24" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-38" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=none;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="784" y="655" width="57" height="14" as="geometry" />
@@ -818,9 +821,6 @@
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-81" value="ASM: Access Service Management&lt;div&gt;Understanding&amp;nbsp;Intent&amp;nbsp;Service&lt;br&gt;Intent Handle Services&lt;br&gt;Dialogue Collection Service&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="356" y="653" width="232" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="Tgnhi4JBFjWxAXDSjCKj-18" value="个性化服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="433.76" y="484" width="122.24" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
