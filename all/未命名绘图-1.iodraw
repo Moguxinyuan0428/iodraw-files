@@ -969,7 +969,7 @@
         <mxCell id="63baA_O1MMSDefcHnGUd-32" value="日历服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="-617" width="126" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="63baA_O1MMSDefcHnGUd-33" value="天气比较：今天比昨天冷多少？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="63baA_O1MMSDefcHnGUd-33" value="历史事件：历史上的今天发生了哪些大事" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="573" y="-517" width="297" height="42" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-34" value="纪念日等：今年的父亲节是哪一天？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
