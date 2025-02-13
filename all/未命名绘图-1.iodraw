@@ -969,11 +969,6 @@
         <mxCell id="63baA_O1MMSDefcHnGUd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="63baA_O1MMSDefcHnGUd-41" target="63baA_O1MMSDefcHnGUd-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="63baA_O1MMSDefcHnGUd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="63baA_O1MMSDefcHnGUd-42">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-272" y="-191" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="63baA_O1MMSDefcHnGUd-41" target="63baA_O1MMSDefcHnGUd-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -984,7 +979,7 @@
           <mxGeometry x="-111" y="-112" width="297" height="42" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-43" value="历史与文化：西安有哪些历史遗址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-111" y="-178" width="296" height="45" as="geometry" />
+          <mxGeometry x="-108" y="-178" width="293" height="45" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-44" value="生活与日常：意大利的菜系有哪些？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-108" y="-303" width="295" height="46" as="geometry" />
