@@ -972,7 +972,7 @@
         <mxCell id="63baA_O1MMSDefcHnGUd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="63baA_O1MMSDefcHnGUd-41" target="63baA_O1MMSDefcHnGUd-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="63baA_O1MMSDefcHnGUd-41" value="天气搜索服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="63baA_O1MMSDefcHnGUd-41" value="百科服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-399" y="-212" width="126" height="47" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-42" value="天气比较：今天比昨天冷多少？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
