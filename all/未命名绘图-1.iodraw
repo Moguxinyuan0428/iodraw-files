@@ -939,6 +939,9 @@
         <mxCell id="63baA_O1MMSDefcHnGUd-8" value="最近新上的田园诗歌是谁写的？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-83" y="-421" width="272" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="63baA_O1MMSDefcHnGUd-9" value="带有地址的未来天气查询：福州未来3天的天气？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-99" y="-449.5" width="300" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
