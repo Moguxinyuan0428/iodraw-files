@@ -894,27 +894,6 @@
         <mxCell id="zQD_HVtSehXUhUSD8BZV-11" value="百科用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="83" y="-349" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zQD_HVtSehXUhUSD8BZV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zQD_HVtSehXUhUSD8BZV-13" target="zQD_HVtSehXUhUSD8BZV-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zQD_HVtSehXUhUSD8BZV-13" value="诗词接龙：君不见黄河之水天上来下一句是什么？" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-79" y="-300" width="272" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="zQD_HVtSehXUhUSD8BZV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zQD_HVtSehXUhUSD8BZV-15" target="zQD_HVtSehXUhUSD8BZV-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zQD_HVtSehXUhUSD8BZV-15" value="琵琶行的作者是谁？" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-77" y="-234" width="276" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="zQD_HVtSehXUhUSD8BZV-16" value="诗歌服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="323" y="-242.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zQD_HVtSehXUhUSD8BZV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zQD_HVtSehXUhUSD8BZV-18" target="zQD_HVtSehXUhUSD8BZV-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zQD_HVtSehXUhUSD8BZV-18" value="最近新上的田园诗歌是谁写的？" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-77" y="-154" width="272" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-1" value="天气用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="62" y="-759" width="66" height="26" as="geometry" />
         </mxCell>
@@ -976,10 +955,10 @@
           <mxGeometry x="573" y="-583" width="296" height="45" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-35" value="不含地址的当天天气查询：今天的天气如何？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-442" y="-320" width="295" height="46" as="geometry" />
+          <mxGeometry x="-111" y="-310" width="295" height="46" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-36" value="带有地址的未来天气查询：福州未来3天的天气？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-442" y="-255" width="298" height="44" as="geometry" />
+          <mxGeometry x="-111" y="-245" width="298" height="44" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="63baA_O1MMSDefcHnGUd-41" target="63baA_O1MMSDefcHnGUd-35">
           <mxGeometry relative="1" as="geometry" />
@@ -994,13 +973,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-41" value="天气搜索服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="-222" width="126" height="47" as="geometry" />
+          <mxGeometry x="-399" y="-212" width="126" height="47" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-42" value="天气比较：今天比昨天冷多少？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-442" y="-122" width="297" height="42" as="geometry" />
+          <mxGeometry x="-111" y="-112" width="297" height="42" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-43" value="天气趋势与变化：今晚会很冷吗？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-442" y="-188" width="296" height="45" as="geometry" />
+          <mxGeometry x="-111" y="-178" width="296" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
