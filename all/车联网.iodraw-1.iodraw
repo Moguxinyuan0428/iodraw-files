@@ -664,7 +664,7 @@
           <mxGeometry y="2.5761538461538462" width="306.42" height="184.42384615384617" as="geometry" />
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-33" value="兜底服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="X8Jd6RP7sj3efBYB-UQO-31" vertex="1">
-          <mxGeometry x="20.215208333333333" y="42.403344481605345" width="127.675" height="35.978595317725755" as="geometry" />
+          <mxGeometry x="20.215208333333333" y="31.003344481605346" width="127.675" height="35.978595317725755" as="geometry" />
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-34" value="业务服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" parent="X8Jd6RP7sj3efBYB-UQO-31" vertex="1">
           <mxGeometry x="17.47019583333332" y="91.53334448160535" width="127.675" height="35.978595317725755" as="geometry" />
