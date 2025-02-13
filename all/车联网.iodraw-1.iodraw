@@ -658,16 +658,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-31" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="242.58" y="384" width="306.42" height="187" as="geometry" />
+          <mxGeometry x="231" y="397" width="306.42" height="187" as="geometry" />
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#2D7600;sketch=1;curveFitting=1;jiggle=2;fontColor=#ffffff;" parent="X8Jd6RP7sj3efBYB-UQO-31" vertex="1">
           <mxGeometry y="2.5761538461538462" width="306.42" height="184.42384615384617" as="geometry" />
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-33" value="兜底服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="X8Jd6RP7sj3efBYB-UQO-31" vertex="1">
-          <mxGeometry x="20.215208333333333" y="31.003344481605346" width="127.675" height="35.978595317725755" as="geometry" />
-        </mxCell>
-        <mxCell id="X8Jd6RP7sj3efBYB-UQO-34" value="业务服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" parent="X8Jd6RP7sj3efBYB-UQO-31" vertex="1">
-          <mxGeometry x="17.47019583333332" y="91.53334448160535" width="127.675" height="35.978595317725755" as="geometry" />
+          <mxGeometry x="20.22" y="31" width="124.78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-35" value="意图服务(chat-ihs)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="X8Jd6RP7sj3efBYB-UQO-31" vertex="1">
           <mxGeometry x="85.64864583333333" width="135.12270833333332" height="38.550769230769234" as="geometry" />
