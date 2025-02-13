@@ -658,28 +658,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-31" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="242.57999999999998" y="428" width="288" height="143" as="geometry" />
+          <mxGeometry x="242.58" y="384" width="306.42" height="187" as="geometry" />
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#2D7600;sketch=1;curveFitting=1;jiggle=2;fontColor=#ffffff;" parent="X8Jd6RP7sj3efBYB-UQO-31" vertex="1">
-          <mxGeometry y="1.97" width="288" height="141.03" as="geometry" />
+          <mxGeometry y="2.5761538461538462" width="306.42" height="184.42384615384617" as="geometry" />
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-33" value="兜底服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="X8Jd6RP7sj3efBYB-UQO-31" vertex="1">
-          <mxGeometry x="19" y="32.426086956521736" width="120" height="27.51304347826087" as="geometry" />
+          <mxGeometry x="20.215208333333333" y="42.403344481605345" width="127.675" height="35.978595317725755" as="geometry" />
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-34" value="业务服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" parent="X8Jd6RP7sj3efBYB-UQO-31" vertex="1">
-          <mxGeometry x="16.419999999999987" y="69.99608695652174" width="120" height="27.51304347826087" as="geometry" />
+          <mxGeometry x="17.47019583333332" y="91.53334448160535" width="127.675" height="35.978595317725755" as="geometry" />
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-35" value="意图服务(chat-ihs)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="X8Jd6RP7sj3efBYB-UQO-31" vertex="1">
-          <mxGeometry x="80.5" width="127" height="29.48" as="geometry" />
+          <mxGeometry x="85.64864583333333" width="135.12270833333332" height="38.550769230769234" as="geometry" />
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-36" value="仲裁服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;pointerEvents=0;gradientColor=none;" parent="X8Jd6RP7sj3efBYB-UQO-31" vertex="1">
-          <mxGeometry x="16.42" y="107.99304347826087" width="120" height="27.51304347826087" as="geometry" />
+          <mxGeometry x="17.470195833333335" y="141.2216722408027" width="127.675" height="35.978595317725755" as="geometry" />
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-82" value="&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;用户风格prompt设置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" parent="X8Jd6RP7sj3efBYB-UQO-31" vertex="1">
-          <mxGeometry x="152.42000000000002" y="29.47608695652167" width="120" height="27.51304347826087" as="geometry" />
+          <mxGeometry x="162.16852916666667" y="38.545652173912956" width="127.675" height="35.978595317725755" as="geometry" />
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-83" value="自然语言回复" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" parent="X8Jd6RP7sj3efBYB-UQO-31" vertex="1">
-          <mxGeometry x="152.42000000000002" y="69.99608695652171" width="120" height="27.51304347826087" as="geometry" />
+          <mxGeometry x="162.16852916666667" y="91.53334448160531" width="127.675" height="35.978595317725755" as="geometry" />
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-38" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=none;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="784" y="655" width="57" height="14" as="geometry" />
@@ -721,7 +721,7 @@
           <mxGeometry x="881" y="533" width="120" height="29" as="geometry" />
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;sketch=1;jiggle=2;curveFitting=1;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="564.58" y="282" width="228" height="113" as="geometry" />
+          <mxGeometry x="564.58" y="282" width="227.42" height="75" as="geometry" />
         </mxCell>
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-52" value="对话采集服务(chat-dcs)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="614.23" y="282" width="136.77" height="30" as="geometry" />
