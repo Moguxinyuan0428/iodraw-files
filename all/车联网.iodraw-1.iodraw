@@ -696,7 +696,7 @@
         <mxCell id="Tgnhi4JBFjWxAXDSjCKj-16" value="百科服务对接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="X8Jd6RP7sj3efBYB-UQO-31">
           <mxGeometry x="162.76" y="122.5" width="122.24" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Tgnhi4JBFjWxAXDSjCKj-17" value="个性化服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="X8Jd6RP7sj3efBYB-UQO-31">
+        <mxCell id="Tgnhi4JBFjWxAXDSjCKj-17" value="热点服务搜索对接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="X8Jd6RP7sj3efBYB-UQO-31">
           <mxGeometry x="166" y="147" width="122.24" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tgnhi4JBFjWxAXDSjCKj-18" value="个性化服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="X8Jd6RP7sj3efBYB-UQO-31">
