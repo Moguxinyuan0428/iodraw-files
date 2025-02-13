@@ -1072,10 +1072,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJyYXKxjDFRPfThu6RfH-17" value="热点音乐服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="525" width="126" height="47" as="geometry" />
+          <mxGeometry x="-386" y="497" width="126" height="47" as="geometry" />
         </mxCell>
         <mxCell id="BJyYXKxjDFRPfThu6RfH-19" value="歌词/关键字查询歌曲：是谁开头的歌曲有哪些？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-106" y="498" width="295" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="BJyYXKxjDFRPfThu6RfH-20" value="热门音乐用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-52" y="369" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BJyYXKxjDFRPfThu6RfH-21" value="歌曲排行榜/播放量热度搜索：抖音热榜的歌曲有哪些？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-97" y="445" width="295" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="BJyYXKxjDFRPfThu6RfH-22" value="根据事件/电影查询：2024年奥运会的主题曲？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-97" y="572" width="296.5" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="BJyYXKxjDFRPfThu6RfH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJyYXKxjDFRPfThu6RfH-26" target="BJyYXKxjDFRPfThu6RfH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJyYXKxjDFRPfThu6RfH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJyYXKxjDFRPfThu6RfH-26" target="BJyYXKxjDFRPfThu6RfH-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJyYXKxjDFRPfThu6RfH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJyYXKxjDFRPfThu6RfH-26" target="BJyYXKxjDFRPfThu6RfH-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJyYXKxjDFRPfThu6RfH-26" value="热点音乐服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-376" y="507" width="126" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="BJyYXKxjDFRPfThu6RfH-27" value="歌词/关键字查询歌曲：是谁开头的歌曲有哪些？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-96" y="508" width="295" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
