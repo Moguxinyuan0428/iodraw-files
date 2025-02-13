@@ -892,7 +892,7 @@
           <mxGeometry x="-89" y="144" width="272" height="42" as="geometry" />
         </mxCell>
         <mxCell id="zQD_HVtSehXUhUSD8BZV-11" value="百科用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="83" y="-349" width="66" height="26" as="geometry" />
+          <mxGeometry x="-2" y="-442" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-1" value="天气用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="62" y="-759" width="66" height="26" as="geometry" />
@@ -955,7 +955,7 @@
           <mxGeometry x="573" y="-583" width="296" height="45" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-35" value="地理与自然科学：长江流经哪些城市？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-111" y="-310" width="295" height="46" as="geometry" />
+          <mxGeometry x="-105" y="-375" width="295" height="46" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-36" value="人文与社会科学：哲学思想体系有哪些？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-111" y="-245" width="298" height="44" as="geometry" />
@@ -980,6 +980,9 @@
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-43" value="历史与文化：西安有哪些历史遗址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-111" y="-178" width="296" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="63baA_O1MMSDefcHnGUd-44" value="地理与自然科学：长江流经哪些城市？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-101" y="-300" width="295" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
