@@ -1017,6 +1017,33 @@
         <mxCell id="63baA_O1MMSDefcHnGUd-58" value="诗歌用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="677" y="-419" width="66" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="63baA_O1MMSDefcHnGUd-59" value="诗句/关键字搜索：无边落木萧萧下全诗？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="593" y="-366" width="295" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="63baA_O1MMSDefcHnGUd-60" value="诗歌背景历史事件：描述安史之乱的诗句有哪些？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="593" y="-239" width="296.5" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="63baA_O1MMSDefcHnGUd-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="63baA_O1MMSDefcHnGUd-65" target="63baA_O1MMSDefcHnGUd-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="63baA_O1MMSDefcHnGUd-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="63baA_O1MMSDefcHnGUd-65" target="63baA_O1MMSDefcHnGUd-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="63baA_O1MMSDefcHnGUd-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="63baA_O1MMSDefcHnGUd-65" target="63baA_O1MMSDefcHnGUd-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="63baA_O1MMSDefcHnGUd-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="63baA_O1MMSDefcHnGUd-65" target="63baA_O1MMSDefcHnGUd-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="63baA_O1MMSDefcHnGUd-65" value="诗歌服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-276" width="126" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="63baA_O1MMSDefcHnGUd-66" value="近现代的诗歌相关资讯：中国现代诗人排名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="593" y="-177" width="293" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="63baA_O1MMSDefcHnGUd-67" value="主题朝代等类别：描述春天的诗句？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="-303" width="295" height="46" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
