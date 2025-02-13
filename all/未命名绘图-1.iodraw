@@ -870,18 +870,6 @@
         <mxCell id="zQD_HVtSehXUhUSD8BZV-1" value="诗歌用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="71" y="-51" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zQD_HVtSehXUhUSD8BZV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="181" y="19.5" as="sourcePoint" />
-            <mxPoint x="311" y="85.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zQD_HVtSehXUhUSD8BZV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="183" y="165" as="sourcePoint" />
-            <mxPoint x="311" y="85.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zQD_HVtSehXUhUSD8BZV-11" value="百科用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-2" y="-442" width="66" height="26" as="geometry" />
         </mxCell>
@@ -1034,6 +1022,9 @@
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-67" value="主题朝代等类别：描述春天的诗句？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="598" y="111" width="295" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="63baA_O1MMSDefcHnGUd-68" value="诗歌用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="81" y="-41" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
