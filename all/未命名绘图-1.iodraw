@@ -948,7 +948,7 @@
         <mxCell id="63baA_O1MMSDefcHnGUd-25" value="日历用例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="758" y="-764" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="63baA_O1MMSDefcHnGUd-26" value="农历查询：今天是农历几月几号？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="63baA_O1MMSDefcHnGUd-26" value="农历查询：今天是农历几月几号/今年是农历哪一年" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="573" y="-715" width="295" height="46" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-27" value="节气查询：今天是立春吗？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
