@@ -1068,17 +1068,11 @@
         <mxCell id="BJyYXKxjDFRPfThu6RfH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJyYXKxjDFRPfThu6RfH-17" target="BJyYXKxjDFRPfThu6RfH-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJyYXKxjDFRPfThu6RfH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJyYXKxjDFRPfThu6RfH-17" target="BJyYXKxjDFRPfThu6RfH-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BJyYXKxjDFRPfThu6RfH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJyYXKxjDFRPfThu6RfH-17" target="BJyYXKxjDFRPfThu6RfH-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJyYXKxjDFRPfThu6RfH-17" value="热点音乐服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-390" y="525" width="126" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="BJyYXKxjDFRPfThu6RfH-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-107" y="624" width="293" height="45" as="geometry" />
         </mxCell>
         <mxCell id="BJyYXKxjDFRPfThu6RfH-19" value="歌词/关键字查询歌曲：是谁开头的歌曲有哪些？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-106" y="498" width="295" height="46" as="geometry" />
