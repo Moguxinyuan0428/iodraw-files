@@ -1074,7 +1074,7 @@
         <mxCell id="BJyYXKxjDFRPfThu6RfH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJyYXKxjDFRPfThu6RfH-17" target="BJyYXKxjDFRPfThu6RfH-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJyYXKxjDFRPfThu6RfH-17" value="热点电影服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJyYXKxjDFRPfThu6RfH-17" value="热点音乐服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-390" y="525" width="126" height="47" as="geometry" />
         </mxCell>
         <mxCell id="BJyYXKxjDFRPfThu6RfH-18" value="排名/评分/影评：豆瓣评分最高的10部电影？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
