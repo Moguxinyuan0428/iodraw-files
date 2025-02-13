@@ -666,7 +666,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tgnhi4JBFjWxAXDSjCKj-4" value="天气服务对接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="X8Jd6RP7sj3efBYB-UQO-31">
-          <mxGeometry x="165.88" y="66" width="122.24" height="20" as="geometry" />
+          <mxGeometry x="175" y="6" width="122.24" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tgnhi4JBFjWxAXDSjCKj-15" value="日历服务对接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#56517e;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="X8Jd6RP7sj3efBYB-UQO-31">
           <mxGeometry x="164.38" y="94" width="122.24" height="20" as="geometry" />
