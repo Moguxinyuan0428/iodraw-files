@@ -955,7 +955,7 @@
           <mxGeometry x="573" y="-583" width="296" height="45" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-35" value="地理与自然科学：长江流经哪些城市？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="-375" width="295" height="46" as="geometry" />
+          <mxGeometry x="-108" y="-376" width="295" height="46" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-36" value="人文与社会科学：哲学思想体系有哪些？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-111" y="-245" width="298" height="44" as="geometry" />
@@ -969,8 +969,10 @@
         <mxCell id="63baA_O1MMSDefcHnGUd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="63baA_O1MMSDefcHnGUd-41" target="63baA_O1MMSDefcHnGUd-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="63baA_O1MMSDefcHnGUd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="63baA_O1MMSDefcHnGUd-41" target="63baA_O1MMSDefcHnGUd-42">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="63baA_O1MMSDefcHnGUd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="63baA_O1MMSDefcHnGUd-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-272" y="-191" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-41" value="百科服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-399" y="-212" width="126" height="47" as="geometry" />
@@ -982,7 +984,7 @@
           <mxGeometry x="-111" y="-178" width="296" height="45" as="geometry" />
         </mxCell>
         <mxCell id="63baA_O1MMSDefcHnGUd-44" value="生活与日常：意大利的菜系有哪些？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-101" y="-300" width="295" height="46" as="geometry" />
+          <mxGeometry x="-108" y="-303" width="295" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
