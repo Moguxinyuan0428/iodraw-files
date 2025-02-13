@@ -804,6 +804,9 @@
         <mxCell id="X8Jd6RP7sj3efBYB-UQO-81" value="ASM: Access Service Management&lt;div&gt;Understanding&amp;nbsp;Intent&amp;nbsp;Service&lt;br&gt;Intent Handle Services&lt;br&gt;Dialogue Collection Service&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="356" y="653" width="232" height="79" as="geometry" />
         </mxCell>
+        <mxCell id="Tgnhi4JBFjWxAXDSjCKj-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="661" y="367" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
