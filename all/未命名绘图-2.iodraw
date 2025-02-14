@@ -1125,10 +1125,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WSyJJb_pQL6SvG7q-owi-2" value="发起请求接入服务" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="185" y="280" width="150" height="30" as="geometry" />
+          <mxGeometry x="185" y="270" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eUb2dIMReakvDsCjyqCP-1" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="375" width="170" height="35" as="geometry" />
+          <mxGeometry x="175" y="350" width="170" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
