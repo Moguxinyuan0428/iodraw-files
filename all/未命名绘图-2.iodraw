@@ -699,7 +699,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="系统架构" id="A7Xk5G5zDCwYnxzAQE8X">
-    <mxGraphModel dx="1420" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1032" dy="691" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="PvwICUjADzf3Vk5LTViz-0" />
         <mxCell id="PvwICUjADzf3Vk5LTViz-1" parent="PvwICUjADzf3Vk5LTViz-0" />
@@ -1121,8 +1121,8 @@
         <mxCell id="WSyJJb_pQL6SvG7q-owi-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WSyJJb_pQL6SvG7q-owi-2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="305" width="150" height="35" as="geometry" />
+        <mxCell id="WSyJJb_pQL6SvG7q-owi-2" value="发起" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="280" width="150" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
