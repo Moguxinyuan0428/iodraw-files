@@ -19,6 +19,15 @@
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-7" value="relateid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="148" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-8" value="link" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="198" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-9" value="newsdate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="258" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="308" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
