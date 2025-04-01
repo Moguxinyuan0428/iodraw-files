@@ -49,6 +49,9 @@
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-17" value="wc_newspaper_sheet" style="text;whiteSpace=wrap;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="570" y="20" width="210" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6M2Pvgs6Y6DMxaD8yNW-18" target="G6M2Pvgs6Y6DMxaD8yNW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-18" value="id：自增ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="130" width="80" height="30" as="geometry" />
         </mxCell>
