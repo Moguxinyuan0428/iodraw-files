@@ -64,8 +64,8 @@
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-22" value="updatedate：更新时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="320" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-27" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry y="520" width="120" height="60" as="geometry" />
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-27" value="先保存图片的type、link、relateid、newsdate。后面根据进行处理成picturepath" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="510" width="330" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
