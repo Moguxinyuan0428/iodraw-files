@@ -103,6 +103,9 @@
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-41" value="sheet：所属版面ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-600" y="378" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-42" value="&amp;nbsp;sheetposition：版面坐标信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="418" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
