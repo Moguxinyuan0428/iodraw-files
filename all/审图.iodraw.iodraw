@@ -121,8 +121,8 @@
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-48" value="picturecnt：图片数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-670" y="598" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-49" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-645" y="638" width="50" height="30" as="geometry" />
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-49" value="pictureratio：图片占比" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="638" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
