@@ -52,6 +52,11 @@
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6M2Pvgs6Y6DMxaD8yNW-18" target="G6M2Pvgs6Y6DMxaD8yNW-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6M2Pvgs6Y6DMxaD8yNW-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-18" value="id：自增ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="130" width="80" height="30" as="geometry" />
         </mxCell>
