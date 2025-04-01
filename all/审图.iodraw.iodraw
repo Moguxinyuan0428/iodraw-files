@@ -31,9 +31,6 @@
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-9" value="newsdate：新闻的时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="240" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6M2Pvgs6Y6DMxaD8yNW-10" target="G6M2Pvgs6Y6DMxaD8yNW-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-10" value="picturepath：保存的地址，拼接方式：/newsdate/id_link中图片name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-55" y="280" width="380" height="30" as="geometry" />
         </mxCell>
@@ -74,7 +71,7 @@
           <mxGeometry x="-40" y="510" width="400" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-29" value="该表主要用于存储报纸版面信息&lt;div&gt;1、通过sheetid与图片建立关联&lt;/div&gt;&lt;div&gt;2、采用先查询后更新/插入的策略。&lt;/div&gt;&lt;div&gt;需要更新的数据：&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;color: rgb(216, 222, 233); background-color: rgb(26, 26, 26); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #e394dc;&quot;&gt;newspaperid,name,picturepath,updatedate&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;dashed=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="560" y="385" width="350" height="105" as="geometry" />
+          <mxGeometry x="515" y="385" width="350" height="105" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-30" value="wc_newspaper_content" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-565" y="10" width="220" height="30" as="geometry" />
