@@ -25,6 +25,9 @@
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-9" value="newsdate：新闻的时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="240" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6M2Pvgs6Y6DMxaD8yNW-10" target="G6M2Pvgs6Y6DMxaD8yNW-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-10" value="picturepath：保存的地址，拼接方式：/newsdate/link中图片name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-50" y="280" width="370" height="30" as="geometry" />
         </mxCell>
@@ -56,7 +59,7 @@
           <mxGeometry x="610" y="210" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-21" value="picturepath：图片路径" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="270" width="140" height="30" as="geometry" />
+          <mxGeometry x="620" y="260" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-22" value="updatedate：更新时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="310" width="140" height="30" as="geometry" />
