@@ -43,11 +43,11 @@
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-17" value="wc_newspaper_sheet" style="text;whiteSpace=wrap;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="570" y="20" width="210" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="78" width="245" height="282" as="geometry" />
+        </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-18" value="id：自增ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="68" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="68" width="210" height="252" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-19" value="newspaperid：报纸ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="108" width="140" height="30" as="geometry" />
