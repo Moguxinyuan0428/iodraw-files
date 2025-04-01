@@ -100,8 +100,8 @@
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-40" value="link：链接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-580" y="348" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-41" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-565" y="378" width="50" height="30" as="geometry" />
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-41" value="sheet：所属版面ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="378" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
