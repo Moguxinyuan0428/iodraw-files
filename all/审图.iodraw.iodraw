@@ -91,16 +91,11 @@
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-36" value="subhead：子标题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-570" y="238" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-37" value="content：内容" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.5" width="80" relative="1" as="geometry">
-            <mxPoint x="-510" y="290" as="sourcePoint" />
-            <mxPoint x="-430" y="290" as="targetPoint" />
-            <Array as="points" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-38" value="contenthm：内容链接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-580" y="308" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-575" y="268" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
