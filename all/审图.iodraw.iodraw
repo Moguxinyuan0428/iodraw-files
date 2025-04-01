@@ -46,8 +46,8 @@
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-18" value="id：自增ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="68" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-19" value="newspaperid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="615" y="108" width="90" height="30" as="geometry" />
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-19" value="newspaperid：报纸ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="108" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-20" value="name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="635" y="158" width="50" height="30" as="geometry" />
