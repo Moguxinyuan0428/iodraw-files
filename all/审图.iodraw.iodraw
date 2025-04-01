@@ -7,7 +7,7 @@
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="78" width="470" height="412" as="geometry" />
         </mxCell>
-        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-1" value="wc_newspaper_picture" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-1" value="wc_newspaper_picture" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="45" y="20" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-3" value="id：图片ID，自增" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-14" value="retrycnt：次数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-17" value="842909" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="620" y="15" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
