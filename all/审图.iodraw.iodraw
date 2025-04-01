@@ -34,14 +34,6 @@
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-11" value="finishflag：完成标签，1为完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="35" y="320" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6M2Pvgs6Y6DMxaD8yNW-10" target="G6M2Pvgs6Y6DMxaD8yNW-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="470" y="295" />
-              <mxPoint x="470" y="275" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-12" value="sheetratio：当tpye为1的时候，该值为NULL，当type为0的时候，该值为newspaperid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-80" y="370" width="470" height="30" as="geometry" />
         </mxCell>
@@ -67,7 +59,7 @@
           <mxGeometry x="620" y="280" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-22" value="updatedate：更新时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="310" width="140" height="30" as="geometry" />
+          <mxGeometry x="620" y="320" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
