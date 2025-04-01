@@ -47,10 +47,10 @@
           <mxGeometry x="555" y="78" width="245" height="282" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-18" value="id：自增ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="68" width="80" height="30" as="geometry" />
+          <mxGeometry x="640" y="100" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-19" value="newspaperid：报纸ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="108" width="140" height="30" as="geometry" />
+          <mxGeometry x="610" y="160" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-20" value="name：报纸首页的大标题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="210" width="160" height="30" as="geometry" />
