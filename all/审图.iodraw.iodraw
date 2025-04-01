@@ -20,13 +20,16 @@
           <mxGeometry x="20" y="120" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-7" value="relateid：为版面图片时为版面id，为内容图片时为内容id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-55" y="160" width="320" height="30" as="geometry" />
+          <mxGeometry x="-30" y="160" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-8" value="link：图片网页中的链接地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="45" y="198" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-9" value="newsdate：新闻的时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="240" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6M2Pvgs6Y6DMxaD8yNW-10" target="G6M2Pvgs6Y6DMxaD8yNW-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-10" value="picturepath：保存的地址，拼接方式：/newsdate/link中图片name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-50" y="280" width="370" height="30" as="geometry" />
