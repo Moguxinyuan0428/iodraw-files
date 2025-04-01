@@ -43,8 +43,8 @@
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-17" value="wc_newspaper_sheet" style="text;whiteSpace=wrap;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="570" y="20" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-18" value="id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="655" y="68" width="30" height="30" as="geometry" />
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-18" value="id：自增ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="68" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-19" value="newspaperid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="615" y="108" width="90" height="30" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="630" y="208" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-22" value="updatedate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="258" width="80" height="30" as="geometry" />
+          <mxGeometry x="615" y="258" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
