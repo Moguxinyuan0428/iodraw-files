@@ -82,6 +82,9 @@
         <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-33" value="newspaperid：所属报纸ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-560" y="128" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="G6M2Pvgs6Y6DMxaD8yNW-34" value="updatetime：更新日期" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="158" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
